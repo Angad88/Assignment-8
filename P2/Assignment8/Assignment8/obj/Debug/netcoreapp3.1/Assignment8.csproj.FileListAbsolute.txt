@@ -1,0 +1,28 @@
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.exe
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.deps.json
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.runtimeconfig.json
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.runtimeconfig.dev.json
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.dll
+D:\1303\Project 1\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.pdb
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.csproj.AssemblyReference.cache
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.AssemblyInfoInputs.cache
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.AssemblyInfo.cs
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.csproj.CoreCompileInputs.cache
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.dll
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.pdb
+D:\1303\Project 1\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.genruntimeconfig.cache
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.exe
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.deps.json
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.runtimeconfig.json
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.runtimeconfig.dev.json
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.dll
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\bin\Debug\netcoreapp3.1\Assignment8.pdb
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.csproj.AssemblyReference.cache
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.AssemblyInfoInputs.cache
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.AssemblyInfo.cs
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.csproj.CoreCompileInputs.cache
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.dll
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.pdb
+D:\1303\Main\Assignment-8\P2\Assignment8\Assignment8\obj\Debug\netcoreapp3.1\Assignment8.genruntimeconfig.cache
